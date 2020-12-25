@@ -27,3 +27,11 @@ tags
 *.pdf
 *.toc
 
+code/.vs/code/v16/.suo
+code/.vs/code/v16/Browse.VC.db
+code/.vs/code/v16/ipch/AutoPCH/2031c8237c49cd1f/DEBUG.ipch
+code/.vs/code/v16/ipch/AutoPCH/e715135db51ef1b2/DEBUG.ipch
+code/.vs/code/v16/ipch/AutoPCH/f6cce20c735b18c1/PRINTK.ipch
+code/.vs/ProjectSettings.json
+code/.vs/slnx.sqlite
+code/.vs/VSWorkspaceState.json
